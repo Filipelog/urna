@@ -1,0 +1,17 @@
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\config\FirebaseConfig.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\controller\UrnaController.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\Main.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\model\Candidato.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\model\Cargo.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\model\CargoMajoritario.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\model\CargoProporcional.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\model\Pessoa.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\model\Voto.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\repository\FirestoreRepository.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\repository\LocalRepository.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\repository\Repository.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\service\VotacaoService.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\view\FimFrame.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\view\MenuFrame.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\view\TelaBase.java
+C:\Users\Pichau\OneDrive\Desktop\urna\src\main\java\br\com\urna\view\VotacaoFrame.java

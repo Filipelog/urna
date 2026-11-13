@@ -1,0 +1,6 @@
+br\com\urna\model\Voto.class
+br\com\urna\config\FirebaseConfig.class
+br\com\urna\model\Candidato.class
+br\com\urna\model\Pessoa.class
+br\com\urna\Main.class
+br\com\urna\repository\Repository.class
